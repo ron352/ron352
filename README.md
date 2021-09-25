@@ -19,9 +19,6 @@
 
 - 📫 How to reach me **sarna6164@gmail.com**
       
-&nbsp; <br> [![Spotify](https://novatorem-steel-phi.vercel.app/api/spotify)](https://open.spotify.com/user/Serein)
- </td>
-  </table>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">  
