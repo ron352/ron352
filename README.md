@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron352&label=Profile%20views&color=0e75b6&style=flat" alt="ron352" /> </p>
 <p align="center"> <img src="https://github.com/ron352/ron352/blob/main/sarna.gif" alt="ron352" /> </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+%F0%9F%91%8B%2C+I+am+Sarna+✌️+;▶+A+Research+Driven+Person+%F0%9F%92%BB;▶+A+Data+Science+Enthusiast+%F0%9F%93%94;▶+Quick+Learner+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F">
 </p>
@@ -19,8 +18,14 @@
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
 - 📫 How to reach me **sarna6164@gmail.com**
--  ⚡ Fun fact:  A 	Caffeine addicted melomaniac  🎵 ☕
-
+- ⚡ Fun fact:  A 	Caffeine addicted melomaniac  🎵 ☕ 
+<table class="center"> 
+  <tr>
+  <td width="100%">
+      
+&nbsp; <br> [![Spotify](https://novatorem-steel-phi.vercel.app/api/spotify)](https://open.spotify.com/user/313ytiro6rqqlpmn5oylg4anj36m)
+ </td>
+  </table>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">  
@@ -38,8 +43,6 @@
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ron352&show_icons=true&count_private=true&theme=react" /><p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ron352&theme=react" />
 
 [![Sarna's github activity graph](https://activity-graph.herokuapp.com/graph?username=ron352&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
 
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
 
