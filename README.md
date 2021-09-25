@@ -5,6 +5,7 @@
 <h3 align="center">▶ I am a Data science Enthusiast and Research Driven Person 😄 ◀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron352&label=Profile%20views&color=0e75b6&style=flat" alt="ron352" /> </p>
+
 <h3 align="left"> 👧 💻  About me </h3>
 - 🔭 I’m currently studying in **Computer Science in Jahangirnagar University**
 
