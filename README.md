@@ -18,12 +18,8 @@
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
 - 📫 How to reach me **sarna6164@gmail.com**
-- ⚡ Fun fact:  A 	Caffeine addicted melomaniac  🎵 ☕ 
-<table class="center"> 
-  <tr>
-  <td width="100%">
       
-&nbsp; <br> [![Spotify](https://novatorem-steel-phi.vercel.app/api/spotify)](https://open.spotify.com/user/313ytiro6rqqlpmn5oylg4anj36m)
+&nbsp; <br> [![Spotify](https://novatorem-steel-phi.vercel.app/api/spotify)](https://open.spotify.com/user/Serein)
  </td>
   </table>
 
@@ -47,4 +43,16 @@
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
 
 
+<h1>
+<p align="center"> ⚡ Fun fact:  A 	Caffeine addicted melomaniac  🎵 ☕
+   <p align="center"> Current Jamming 🤟 🎧
+</h1>
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://novatorem-steel-phi.vercel.app/api/spotify">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://novatorem-steel-phi.vercel.app/api/spotify">
+  </a>
+</p>
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
