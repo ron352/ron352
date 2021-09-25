@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying in **Computer Science at Jahangirnagar University**
 
-- 🌱My current research is based on **Data Driven Machine Learning and Blockchain**
+- 🌱My current research is based on **Data Driven Machine Learning and Blockchain** at [Ju DM RG LAB](https://ju-data-mining-research-group.netlify.app/?fbclid=IwAR0agpWruZ5V5rJTCnyx_dNnK5E9Ys-4lAx93ZiUcZ7dcDloq-fCHGdCuUw)
 
 - 👯 I’m currently collaborating on [winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 
