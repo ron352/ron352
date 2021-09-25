@@ -3,9 +3,6 @@
 <p align="center"> <img src="https://github.com/ron352/ron352/blob/main/sarna.gif" alt="ron352" /> </p>
 
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+%F0%9F%91%8B%2C+I+am+Sarna+✌️+;▶+A+Research+Driven+Person+%F0%9F%92%BB;▶+A+Data+Science+Enthusiast+%F0%9F%93%94;▶+Quick+Learner+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F">
 </p>
@@ -13,17 +10,17 @@
 
 <h3 align="left"> 👧 💻  About me </h3>
 
-- 🔭 I’m currently studying in **Computer Science in Jahangirnagar University**
+- 🔭 I’m currently studying in **Computer Science at Jahangirnagar University**
 
-- 🌱 I’m currently learning **Data Driven Machine Learning and Blockchain**
+- 🌱My current research is based on **Data Driven Machine Learning and Blockchain**
 
 - 👯 I’m currently collaborating on [winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
 - 📫 How to reach me **sarna6164@gmail.com**
+-  ⚡ Fun fact:  A 	Caffeine addicted melomaniac  🎵 ☕
 
-- ⚡ Fun fact **My music taste credit goes to my work !**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">  
