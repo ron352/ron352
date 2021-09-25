@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarmistha Sarna</h1>
+<h1 align="center">Hi there , I'm Sarmistha Sarna 👋 </h1>
 <h3 align="center">▶ I am a Data science Enthusiast and Research Driven Person 😄 ◀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ron352&label=Profile%20views&color=0e75b6&style=flat" alt="ron352" /> </p>
