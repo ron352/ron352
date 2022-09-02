@@ -17,7 +17,7 @@
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
-- 📫 How to reach me **sarna6164@gmail.com**
+- 📫 How to reach me **sarmistha.sarna352@gmail.com**
       
 
 <h3 align="center">Connect with me:</h3>
