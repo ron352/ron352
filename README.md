@@ -13,7 +13,8 @@
 
 - 🌱My current research is based on **Data Driven Machine Learning and Blockchain** at [Ju DM RG LAB](https://ju-data-mining-research-group.netlify.app/?fbclid=IwAR0agpWruZ5V5rJTCnyx_dNnK5E9Ys-4lAx93ZiUcZ7dcDloq-fCHGdCuUw)
 
-- 👯 I’m currently collaborating on [winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+- 👯 I’m currently designing a blockchain platform for optimised information retrival under the supervision of 
+[Dr. Mohammad Shorif Uddin](https://scholar.google.com/citations?user=Q0_7DJAAAAAJ&hl=en)
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
