@@ -9,9 +9,9 @@
 
 <h3 align="left"> 👧 💻  About me </h3>
 
-- 🔭 Incoming PhD grad in @Umass Amherst CICS !!!!!!**
+- 🔭 First Year PhD grad in @Umass Amherst CICS !!!!!!**
 
-- 🌱My current research is focused  on the intersection of ** Usable Privacy, Defi and Human Computer Interaction!** .
+- 🌱My current research is focused  on the intersection of ** Human- Centerd AI , Usable Privacy!** .
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
