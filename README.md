@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github.com/ron352/ron352/blob/main/sarna.gif" alt="ron352" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+%F0%9F%91%8B%2C+I+am+Sarna+✌️+;▶+A+Research+Driven+Person+%F0%9F%92%BB;▶+A+Data+Science+Enthusiast+%F0%9F%93%94;▶+Quick+Learner+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+%F0%9F%91%8B%2C+I+am+Sarmistha+✌️+;▶+A+Research+Driven+Person+%F0%9F%92%BB;▶+A+Data+Science+Enthusiast+%F0%9F%93%94;▶+Quick+Learner+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F">
 </p>
 
 
