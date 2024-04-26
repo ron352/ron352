@@ -11,7 +11,7 @@
 
 - 🔭 First Year PhD grad in @Umass Amherst CICS !!!!!!**
 
-- 🌱My current research is focused  on the intersection of ** Human- Centerd AI , Usable Privacy!** .
+- 🌱My current research is focused  on the intersection of ** Human- Centered AI, Privacy-preserving machine learning and multimodal visualization!** .
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
