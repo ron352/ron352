@@ -9,9 +9,9 @@
 
 <h3 align="left"> 👧 💻  About me </h3>
 
-- 🔭 First Year PhD grad in @Umass Amherst CICS !!!!!!**
+- 🔭 Second Year CS/PhD grad in @Umass Amherst CICS !!!!!!**
 
-- 🌱My current research is focused  on the intersection of ** Human- Centered AI, Privacy-preserving machine learning and multimodal visualization!** .
+- 🌱My current research is focused  on the intersection of Mobile and Wearable Sensing and Systems, Statistical Signal Processing, Ubiquitous Computing, Privacy Preserving Machine Learning, and Human Computer Interaction!** .
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
